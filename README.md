@@ -1,6 +1,7 @@
 # 🌸Hey there, I'm Arushi Garg
 Economics student | Data analytics learner | Turning data into decisions<br>
-Email Me 👉 ✉️ **arushigarg2470@gmail.com** For Collaboration/Project or Anything Else. 
+Email Me 👉 ✉️ **arushigarg2470@gmail.com** For Collaboration/Project or Anything Else. <br>
+I see myself as a curious learner who loves exploring and trying new things. This space is a small reflection of that journey, a place where I share my work, learning experiences, and everything I create along the way.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arushi-garg-8b9b58378) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arushigarg2470@gmail.com) 
